@@ -43,6 +43,8 @@ https://www.intensecrypto.org/public/
 
 https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
 
+https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
+ 
 ## Java concurrent programming combat
 https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
 
